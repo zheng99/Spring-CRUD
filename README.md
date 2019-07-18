@@ -1,7 +1,15 @@
 # Spring-CRUD
 
+# 開発環境
+JDK 1.8
+Apache Tomcat 9.0
+Mysql 8.0.16
+Bootstrap 3
+Spring Framework
 
+## Main Page
 ![main](./capture/main.png)<br>
+
 
 ![sign](./capture/sign.gif)<br>
 
