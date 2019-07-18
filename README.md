@@ -65,5 +65,5 @@ Spring Framework<br>
 
 ## 補完すべき機能
 
-照会数<br>
+- 照会数<br>
 - ファイルアップロード<br>
