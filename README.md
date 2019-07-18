@@ -40,6 +40,8 @@ IDとPWの検証と有効性検査をしながらajaxを利用して間違えた
 ## Post Check
 ![post](./capture/post.gif)<br>
 
+掲示物の修正や削除が可能<br>
+
 ## BoardDB
 ![board](./capture/board.png)<br>
 
